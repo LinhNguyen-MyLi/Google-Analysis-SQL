@@ -1,5 +1,6 @@
 # Google-Analysis-SQL
 SQL Project Google analytics session data
+
 Note: To access data please follow steps below:
 1.	Access console.cloud.google.com/bigquery
 2.	Register for Google Cloud 
